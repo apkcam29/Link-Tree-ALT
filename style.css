@@ -46,7 +46,7 @@ div.image-container img{
 a{
     color: black;
 }
-a:visited{
+a:link, a:visited {
     color: black;
 }
 button:visited{
