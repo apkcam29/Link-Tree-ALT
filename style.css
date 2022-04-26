@@ -43,6 +43,12 @@ div.image-container img{
     border-radius: 40px;
     transition: 00.5s;
 }
+a{
+    color: black;
+}
+a:visited{
+    color: black;
+}
 
 
 
