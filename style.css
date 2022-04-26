@@ -10,7 +10,7 @@ div.image-container{
     display:flex;
     justify-content: center;
     align-items: center;
-    margin-top: 5rem;
+    margin-top: 10rem;
 }
 div.image-container img{
     border-radius: 50%;
