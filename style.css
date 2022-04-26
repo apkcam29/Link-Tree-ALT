@@ -15,7 +15,7 @@ div.image-container{
 div.image-container img{
     border-radius: 50%;
     height: 18rem;
-    width: 18rem;
+    width: 14rem;
     transition: 0.5s;
 }
 .name-container{
@@ -55,7 +55,7 @@ a:hover{
 @media screen and (min-width:1024px){
 div.image-container img{
     height: 25rem;
-    width: 25rem;
+    width: 20rem;
 }
 .user-name{
     font-size: 60px;
