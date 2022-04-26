@@ -36,22 +36,15 @@ div.image-container img{
     gap: 40px;
     margin-bottom: 10rem;
 }
-.links-container button{
-    width: 80%;
-    height:fit-content;
-    font-size: 40px;
-    border-radius: 10px;
-}
-a{
+.button-link{
     font-family: 'Dancing Script', cursive;
-    text-decoration: none;
-    color: black;
-    transition: 0.5s;
+    width: 20rem;
+    font-size: 40px;
+    border-radius: 40px;
+    transition: 00.5s;
 }
-a:hover{
-   font-size: 44px;
-   font-weight: bolder;
-}
+
+
 
 @media screen and (min-width:1024px){
 div.image-container img{
@@ -60,5 +53,8 @@ div.image-container img{
 }
 .user-name{
     font-size: 60px;
+}
+.button-link{
+    width:60rem;
 }
 }
