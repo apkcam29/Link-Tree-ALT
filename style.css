@@ -52,6 +52,9 @@ a:link, a:visited {
 button:visited{
     color: black;
 }
+button:hover{
+    font-size: 45px;
+}
 
 
 
