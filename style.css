@@ -44,6 +44,7 @@ div.image-container img{
     font-size: 40px;
     border-radius: 40px;
     transition: 00.5s;
+    text-decoration: none;
 }
 a{
     color: black;
